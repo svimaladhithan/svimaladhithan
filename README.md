@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **Rently Software Development**
 
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **HTML, CSS**
+- 🌱 I've completed **MERN Stack**
 
 - 📫 How to reach me **vimaladhithan007@gmail.com**
 
